@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Images">
+      <UniqueIdentifier>{437ff8b1-5d85-4512-a00f-9031729cb085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Domino">
+      <UniqueIdentifier>{c75766e1-07f3-40da-8ffc-8cc09c8e559a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Orientation">
+      <UniqueIdentifier>{a6a41626-9f68-47a8-a558-6839da8b48d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images\Field">
+      <UniqueIdentifier>{814df9cd-d1f4-400d-87cb-f11e6b8624aa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Field.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FieldElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Domino.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Field.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FieldElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Domino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_1_2_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_1_3_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_1_4_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_1_5_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_1_6_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_2_3_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_2_4_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_2_5_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_2_6_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_3_4_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_3_5_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_3_6_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_4_5_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_4_6_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\Документи\Visual Studio 2015\Projects\Domino\Domino\Images\Domino\domino_5_6_Background.png">
+      <Filter>Resource Files\Images\Domino</Filter>
+    </Image>
+    <Image Include="Images\Orientation\OrientationDown.png">
+      <Filter>Resource Files\Images\Orientation</Filter>
+    </Image>
+    <Image Include="Images\Orientation\OrientationLeft.png">
+      <Filter>Resource Files\Images\Orientation</Filter>
+    </Image>
+    <Image Include="Images\Orientation\OrientationRight.png">
+      <Filter>Resource Files\Images\Orientation</Filter>
+    </Image>
+    <Image Include="Images\Orientation\OrientationUp.png">
+      <Filter>Resource Files\Images\Orientation</Filter>
+    </Image>
+    <Image Include="Images\Orientation\OrientationNotSelected.png">
+      <Filter>Resource Files\Images\Orientation</Filter>
+    </Image>
+    <Image Include="Images\Field\field.png">
+      <Filter>Resource Files\Images\Field</Filter>
+    </Image>
+    <Image Include="Images\Field\field1.png">
+      <Filter>Resource Files\Images\Field</Filter>
+    </Image>
+    <Image Include="Images\Field\field2.png">
+      <Filter>Resource Files\Images\Field</Filter>
+    </Image>
+    <Image Include="Images\Field\field3.png">
+      <Filter>Resource Files\Images\Field</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MainWindow.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

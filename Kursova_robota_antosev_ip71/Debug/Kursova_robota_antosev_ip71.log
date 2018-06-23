@@ -1,0 +1,13 @@
+﻿  MainWindow.cpp
+MainWindow.cpp(9): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+MainWindow.cpp(1017): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+MainWindow.cpp(1127): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+MainWindow.cpp(1128): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'System::String ^'
+MainWindow.cpp(1134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+MainWindow.cpp(1138): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  Domino.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Kursova_robota_antosev_ip71.vcxproj -> C:\Users\sasha\Desktop\wtf\Kursova_robota_antosev_ip71\Debug\Kursova_robota_antosev_ip71.exe
+  Kursova_robota_antosev_ip71.vcxproj -> C:\Users\sasha\Desktop\wtf\Kursova_robota_antosev_ip71\Debug\Kursova_robota_antosev_ip71.pdb (Partial PDB)
